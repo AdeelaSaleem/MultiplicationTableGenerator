@@ -12,7 +12,9 @@ This web application allows users to generate multiplication tables based on the
 
 ## Screenshots
 
-![Multiplication Table Generator](path/to/screenshot.png)
+![Multiplication Table Generator][(path/to/screenshot.png)](https://github.com/AdeelaSaleem/MultiplicationTableGenerator/blob/13bf36eb5a99940e4fa7c35593f31204e41266c4/Screenshot(2).png)
+
+https://github.com/AdeelaSaleem/MultiplicationTableGenerator/blob/13bf36eb5a99940e4fa7c35593f31204e41266c4/Screenshot(2).png
 
 ## Additional Information
 
